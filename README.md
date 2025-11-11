@@ -1,2 +1,2 @@
 # Guinea_BedNetStudy
-Effect of Distribution Campaigns on Use Rate of long-lasting insecticide-treated Mosquito nets in Guinea
+Impact of Distribution Campaigns on the Use and Availability of Long-Lasting Insecticide-Treated Nets in Guinea: A Cross-Sectional Community Study
